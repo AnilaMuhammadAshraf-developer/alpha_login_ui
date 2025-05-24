@@ -1,5 +1,5 @@
 class AppStrings{
-  static const appTitle="Alpha Login Ui";
+  static const appTitle="Alpha Login UI";
   static const  loginToYourAccount="Login to your account";
   static const welcomeBack="Welcome Back";
   static const forgotPassword="Forgot Password?";
@@ -10,5 +10,6 @@ class AppStrings{
   static const signupText="Sign Up";
   static const hintEmailText="Email";
   static const hintPasswordText="Password";
+  static const splashText="Simple. Clean. Beautiful";
 
 }

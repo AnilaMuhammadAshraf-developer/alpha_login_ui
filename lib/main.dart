@@ -1,4 +1,5 @@
 import 'package:alpha_login_ui/screens/login.dart';
+import 'package:alpha_login_ui/screens/splash.dart';
 import 'package:alpha_login_ui/utils/app_strings.dart';
 import 'package:flutter/material.dart';
 
@@ -13,7 +14,7 @@ class MyApp extends StatelessWidget{
     return MaterialApp(
       debugShowCheckedModeBanner:false,
       title:AppStrings.appTitle,
-      home:LoginScreen()
+      home:SplashScreen()
     );
   }
 }
