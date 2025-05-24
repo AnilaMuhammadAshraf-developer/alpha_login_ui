@@ -6,4 +6,5 @@ class AppColors{
   static const btnLoginColor=Color(0xff5345E2);
   static const loginBoxColor=Colors.white;
   static const textWhiteColor=Colors.white;
+  static const textblackColor=Colors.black;
 }
