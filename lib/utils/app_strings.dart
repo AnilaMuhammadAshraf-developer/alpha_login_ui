@@ -8,5 +8,7 @@ class AppStrings{
   static const btnLoginWithGoogle="Login With Google";
   static const dontHaveAnAccountText="Don't have an account?";
   static const signupText="Sign Up";
+  static const hintEmailText="Email";
+  static const hintPasswordText="Password";
 
 }
